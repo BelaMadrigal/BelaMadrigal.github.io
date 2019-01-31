@@ -1,4 +1,8 @@
 # BelaMadrigal.github.io
 COMM 198 Data Storytelling
 
-My name is Isabela Madrigal (Bela for short) and I am in my third year pursuing an integrated degree in Computer Science Engineering and Communicaitons at Lehigh University. I am currently in a Data Storytelling class that will be creating several data visualizations that will be put in this repository.
+My name is Isabela Madrigal (Bela for short) and I am in my third year 
+pursuing an integrated degree in Computer Science Engineering and 
+Communicaitons at Lehigh University. I am currently in a Data Storytelling
+class that will be creating several data visualizations that will be put 
+in this repository.
