@@ -10,3 +10,9 @@ pursuing an integrated degree in Computer Science Engineering and
 Communicaitons at Lehigh University. I am currently in a Data Storytelling
 class that will be creating several data visualizations that will be put 
 in this repository.
+
+
+# Annual Percentages of Lehigh Students in Each Undergraduate College
+Data from Lehigh's Office of Institutional Research depicting the percentage of undergraduate students in each college. Since 2015, there has been a sharp spike in enrollment for students in intercollegiate programs.
+
+<iframe title="Chart: Annual Percentages of Lehigh Students in Each Undergraduate College" aria-describedby="Since 2015, there has been a spike in enrollment for students in Intercollegiate programs." id="datawrapper-chart-q60XI" src="//datawrapper.dwcdn.net/q60XI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="467"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
