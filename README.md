@@ -26,3 +26,4 @@ Data from El Pais, where Spanish women were asked if they felt they had ever bee
 Data from the group Stop Sexual Harassment demonstrating the percentage of Americans who have experienced one or more forms of sexual harassment. Statistics are broken down by gender and type of harassment.
 
 <iframe title="Chart: Types of Sexual Harassment Experienced by both Men and Women in the U.S." aria-describedby="Percentages of American men and women who have experienced some form of sexual harassment." id="datawrapper-chart-gYdc2" src="//datawrapper.dwcdn.net/gYdc2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
