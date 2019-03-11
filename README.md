@@ -12,6 +12,11 @@ Communications at Lehigh University. I am currently in a Data Storytelling
 in this repository. I am also part of the Data Graphics Team for Lehigh's student 
 newspaper, and those graphics will be included here as well.
 
+# Stories Told Through #Cuentalo Tweets
+Data from Proyecto Cuentalo specifying the content of at least 50,000 of the 2.75 million tweets using the hashtag #Cuentalo in Spain and other Spanish-speaking countries. Tweets can be counted for more than one category.
+
+<iframe title="Chart: Stories Told Through #Cuentalo Tweets" aria-describedby="Out of 2.75 million tweets using the hashtag #Cuentalo, thousands of women told stories about experiences ranging from intimidation to murder. Tweets can count for more than one category." id="datawrapper-chart-EcRUV" src="//datawrapper.dwcdn.net/EcRUV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="307"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
 # Types of Sexual Harassment Experienced by both Men and Women in the U.S.
 Data from the group Stop Sexual Harassment demonstrating the percentage of Americans who have experienced one or more forms of sexual harassment. Statistics are broken down by gender and type of harassment. Graphic created for COMM198.
 
