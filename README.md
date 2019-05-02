@@ -42,7 +42,7 @@ Animated map of the restaurants on Main St. in Bethlehem that participated in th
 
 <div class="canva-embed" data-design-id="DADQjlYq0Fs" data-height-ratio="0.7727" style="padding:77.2727% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADQjlYq0Fs&#x2F;view?utm_content=DADQjlYq0Fs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2019 Historic Bethlehem Restaurant week</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;aim220?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Isabela Madrigal</a>
 
-# Recorded Sexual Offenses in MAjor European Countries by Year
+# Recorded Sexual Offenses in Major European Countries by Year
 Created a color coded map and bar graph to simultaneously display number of reported incidents of sexual violence in several major European countries. This visualization can be filtered by year, which allows for analysis of fluctuations in reported incidents by country over time. 
 
 <iframe frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" class="tableauViz" style="display: block; width: 1300px; height: 800px; margin: 0px; padding: 0px; border: none;" width="1300px" height="800px" src="https://public.tableau.com/views/DashboardofRecordedSexualOffensesinEuropeUpdated/Dashboard2?:embed=y&:display_count=yes&publish=yes&:toolbar=no?:embed=y&:showVizHome=no&:hoswidtt_url=https%3A%2F%2Fpublic.tableau.com%2F&:tabs=yes&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes"></iframe>
